@@ -1,0 +1,13 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Results and log
+*.log
+results/simple_road/hyper-parameters_tuning
+
+!*/results/simple_road/dynamic_programming
+
+# Others
+.idea/
+.pyc
+__pycache__/
